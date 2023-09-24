@@ -1,4 +1,9 @@
-### Hi there 👋
+# Manuel Sedano Mendoza
+
+## Presentation
+In this page, you'll find some of my attempts to learn git related control flow stuff. As I am currently learning, this could seam dull. But the content will improve as I start to get better at it.
+
+
 
 <!--
 **Manuhob/Manuhob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
